@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <xyz.sahildave.arclayout.ArcLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        app:arc_cropCurve="cropConcave"
+        app:arc_height="48dp"
+        app:arc_position="bottom">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorAccent"
+            android:orientation="vertical"
+            android:scaleType="fitXY" >
+        </LinearLayout>
+
+    </xyz.sahildave.arclayout.ArcLayout>
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_centerInParent="false"
+                android:text="@string/tvLaporBencana"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnBack"
+                android:layout_width="69dp"
+                android:layout_height="41dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="19dp"
+                android:background="@color/colorPrimary"
+                android:text="@string/kembali"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/frameContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="200dp"
+            android:paddingBottom="20dp" >
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_alignParentTop="true"
+                android:text="Masukkan Data yang Dibutuhkan"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/txtPhone"
+                android:paddingTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView5"
+                android:clickable="true"
+                android:cursorVisible="true"
+                android:ems="10"
+                android:enabled="true"
+                android:hint="Nomor HP"
+                android:inputType="phone" />
+
+            <EditText
+                android:id="@+id/txtAlamat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtNama"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="Alamat / Lokasi Bencana"
+                android:inputType="textMultiLine" />
+
+            <EditText
+                android:id="@+id/txtNama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtPhone"
+                android:ems="10"
+                android:hint="Nama Pelapor"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/txtBencana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtAlamat"
+                android:ems="10"
+                android:hint="Bencana (Gempa/Tsunami/dll)"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:paddingTop="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/txtBencana"
+                android:justificationMode="inter_word"
+                android:layout_height="wrap_content"
+                android:text="*Aplikasi eGempa secara otomatis melacak titik koordinat anda serta mendapatkan informasi tanggal dan waktu untuk proses validasi data." />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:paddingTop="25dp"
+                android:paddingBottom="25dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/textView6"
+                android:justificationMode="inter_word"
+                android:layout_height="wrap_content"
+                android:text="Dengan ini saya menyatakan dengan sesungguhnya bahwa semua data yang saya input di atas adalah benar.
+Apabila dikemudian hari, ditemukan bahwa data/informasi yang telah saya sampaikan tidak benar dan/atau ada pemalsuan, maka saya bersedia dikenakan sanksi sesuai dengan aturan yang berlaku." />
+
+            <Button
+                android:id="@+id/btnSubmitLaporan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:layout_below="@id/textView7"
+                android:text="Lapor Bencana"
+                app:layout_anchorGravity="bottom|center"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</RelativeLayout>

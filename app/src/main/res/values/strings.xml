@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eGempa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to eGempa</string>
+    <string name="lapor">Lapor</string>
+    <string name="kembali">Kembali</string>
+    <string name="tvLaporBencana">Lapor Bencana</string>
+</resources>
