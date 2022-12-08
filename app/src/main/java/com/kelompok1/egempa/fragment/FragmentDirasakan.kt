@@ -47,12 +47,12 @@ class FragmentDirasakan : Fragment(), MainView {
 
     override fun onGetDataJSON(response: JSONObject?) {
         try {
-            val jsonArray = response?.getJSONArray("gempa")
+            val jsonObj = response?.getJSONObject("Infogempa")
+            val jsonArray = jsonObj?.getJSONArray("gempa")
             if (jsonArray != null) {
                 for (i in 0 until jsonArray.length()) {
                     val dataApi = ModelGempaDirasakan()
                     val jsonObject = jsonArray.getJSONObject(i)
-                    //val jsonObjectData = jsonObject.getJSONObject("gempa")
                     dataApi.strTanggal = jsonObject.getString("Tanggal")
                     dataApi.strKoordinat = jsonObject.getString("Coordinates")
                     dataApi.strKedalaman = jsonObject.getString("Kedalaman")

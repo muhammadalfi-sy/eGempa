@@ -44,12 +44,12 @@ class FragmentDetailGempa : BottomSheetDialogFragment(), OnMapReadyCallback {
 
     @SuppressLint("SetTextI18n", "SimpleDateFormat")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        strLat = arguments?.getString(ARGUMENT_LAT)
-        strLong = arguments?.getString(ARGUMENT_LONG)
-        strWilayah = arguments?.getString(ARGUMENT_WILAYAH)
-        strKedalaman = arguments?.getString(ARGUMENT_KEDALAMAN)
-        strSkala = arguments?.getString(ARGUMENT_SKALA)
-        strTanggal = arguments?.getString(ARGUMENT_TANGGAL)
+        strLat = arguments!!.getString(ARGUMENT_LAT)
+        strLong = arguments!!.getString(ARGUMENT_LONG)
+        strWilayah = arguments!!.getString(ARGUMENT_WILAYAH)
+        strKedalaman = arguments!!.getString(ARGUMENT_KEDALAMAN)
+        strSkala = arguments!!.getString(ARGUMENT_SKALA)
+        strTanggal = arguments!!.getString(ARGUMENT_TANGGAL)
 
         val formatDefault = SimpleDateFormat("dd-MMM-yy")
         val formatTime = SimpleDateFormat("EEE, dd MMM yyyy")
@@ -65,7 +65,7 @@ class FragmentDetailGempa : BottomSheetDialogFragment(), OnMapReadyCallback {
         mapFragment?.getMapAsync(this)
 
         tvKedalaman.text = "Kedalaman\n $strKedalaman"
-        tvSkala.text = "Magnitude\n $strSkala"
+        tvSkala.text = "Magnitude\n $strSkala" + " SR"
         tvTanggal.text = "Tanggal\n $strTanggal"
 
         fabClose.setOnClickListener {
@@ -74,7 +74,7 @@ class FragmentDetailGempa : BottomSheetDialogFragment(), OnMapReadyCallback {
     }
 
     override fun onMapReady(googleMap: GoogleMap) {
-        latitude = "$strLat".toDouble()
+        latitude = "-$strLat".toDouble()
         longitude = strLong!!.toDouble()
 
         googleMaps = googleMap

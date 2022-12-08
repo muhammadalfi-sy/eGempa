@@ -2142,11 +2142,6 @@ id tvTanggal
 id tvTempeatur
 id tvWeather
 id tvWilayah
-id tvWilayah1
-id tvWilayah2
-id tvWilayah3
-id tvWilayah4
-id tvWilayah5
 id txtAlamat
 id txtBencana
 id txtNama

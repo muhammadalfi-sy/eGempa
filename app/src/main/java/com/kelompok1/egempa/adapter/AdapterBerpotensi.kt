@@ -48,7 +48,7 @@ class AdapterBerpotensi(private val modelGempaBerpotensi:
         holder.tvTanggal.text = lastUpdate + " " + data.strWaktu
         holder.tvWilayah.text = data.strWilayah
         holder.tvKedalaman.text = "Kedalaman : " + data.strKedalaman
-        holder.tvSkala.text = data.strMagnitude
+        holder.tvSkala.text = data.strMagnitude + "\nSR"
 
         if (skalaPotensi > 0) {
             holder.tvPotensi.text = strPotensiTsunami

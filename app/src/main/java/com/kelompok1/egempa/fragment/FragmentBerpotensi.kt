@@ -48,12 +48,12 @@ class FragmentBerpotensi : Fragment(), MainView {
 
     override fun onGetDataJSON(response: JSONObject?) {
         try {
-            val jsonArray = response?.getJSONArray("gempa")
+            val jsonObj = response?.getJSONObject("Infogempa")
+            val jsonArray = jsonObj?.getJSONArray("gempa")
             if (jsonArray != null) {
                 for (i in 0 until jsonArray.length()) {
                     val dataApi = ModelGempaBerpotensi()
                     val jsonObject = jsonArray.getJSONObject(i)
-                    //val jsonObjectData = jsonObject.getJSONObject("gempa")
                     dataApi.strTanggal = jsonObject.getString("Tanggal")
                     dataApi.strWaktu = jsonObject.getString("Jam")
                     dataApi.strLintang = jsonObject.getString("Lintang").replace(" LU", "").replace(" LS", "")
