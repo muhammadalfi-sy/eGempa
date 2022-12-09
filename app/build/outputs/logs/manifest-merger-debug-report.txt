@@ -112,11 +112,11 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ma
 	android:label
 		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:14:9-52
 	tools:targetApi
 		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:18:9-28
 	android:icon
-		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:12:9-41
 	android:allowBackup
 		ADDED from C:\Users\malfi\AndroidStudioProjects\eGempa\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme

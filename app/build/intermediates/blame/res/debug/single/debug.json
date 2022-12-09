@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\ic_location.xml"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_egempa.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_egempa.png"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\ic_location.xml"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_kedalaman.xml.flat",
@@ -16,28 +16,20 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\raw\\unknown.json"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_egempa_round.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_egempa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_egempa_round.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_egempa_round.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_detail_gempa.xml.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\layout\\fragment_detail_gempa.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\ic_close.xml"
-    },
-    {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\raw_few_clouds.json.flat",
@@ -52,8 +44,8 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\layout\\layout_cuaca.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_egempa_foreground.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_egempa_foreground.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_gempa_berpotensi.xml.flat",
@@ -62,6 +54,18 @@
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skala.xml.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\ic_skala.xml"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_egempa.xml.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_egempa.xml"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_egempa_round.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_egempa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_egempa_foreground.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-mdpi\\ic_egempa_foreground.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\raw_scattered_clouds.json.flat",
@@ -80,12 +84,16 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\raw\\light_rain.json"
     },
     {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_egempa.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-hdpi\\ic_egempa.png"
+    },
+    {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_egempa.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_egempa.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_terkini.xml.flat",
@@ -100,12 +108,16 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\bg_full_rounded.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_egempa.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_egempa.png"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_egempa_foreground.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-hdpi\\ic_egempa_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_egempa_round.xml.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_egempa_round.xml"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\raw_moderate_rain.json.flat",
@@ -116,16 +128,16 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_egempa_foreground.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_egempa_foreground.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_gempa_dirasakan.xml.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\layout\\list_gempa_dirasakan.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_egempa_round.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-hdpi\\ic_egempa_round.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\raw_overcast_clouds.json.flat",
@@ -140,6 +152,10 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\drawable\\ic_dirasakan.xml"
     },
     {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_egempa_round.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-mdpi\\ic_egempa_round.png"
+    },
+    {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\raw_broken_clouds.json.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\raw\\broken_clouds.json"
     },
@@ -148,16 +164,20 @@
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\raw_heavy_intentsity.json.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\raw\\heavy_intentsity.json"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
         "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_egempa.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-mdpi\\ic_egempa.png"
+    },
+    {
+        "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_egempa_foreground.png.flat",
+        "source": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_egempa_foreground.png"
     },
     {
         "merged": "C:\\Users\\malfi\\AndroidStudioProjects\\eGempa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lapor.xml.flat",
